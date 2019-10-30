@@ -14,7 +14,7 @@ The repository consists of the following files:
   1) main.ipynb :
     A Jupyter notebook which provides the solutions to all research questions.
     
-    ### Exploratory Data Analysis
+   ### Exploratory Data Analysis
     
   [RQ1] Who wants to be a Champion? During a season could happen that a team has bad periods. For example, more than three consecutive games lost, or it could have a positive trend where it seems to be unbeatable. Let's visualize this trends!
 
