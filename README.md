@@ -14,7 +14,7 @@ The repository consists of the following files:
   1) main.ipynb :
     A Jupyter notebook which provides the solutions to all research questions.
     
-    ###Exploratory Data Analysis
+    ### Exploratory Data Analysis
     
   [RQ1] Who wants to be a Champion? During a season could happen that a team has bad periods. For example, more than three consecutive games lost, or it could have a positive trend where it seems to be unbeatable. Let's visualize this trends!
 
@@ -29,7 +29,7 @@ The repository consists of the following files:
 
   [RQ6] Free your mind! Go further with the EDA (Exploratory Data Analysis) showing a new interesting result about the dataset that you found. We did an analysis about the correlation between the mean age of the team and the final score reached by them at the end of the season.
 
-  ###Core Research Questions
+  ### Core Research Questions
   
   [CRQ1] What are the time slots of the match with more goals? 
   Make a barplot with the absolute frequency of goals in all the time slots.
